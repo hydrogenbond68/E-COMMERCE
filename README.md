@@ -1,2 +1,2 @@
 # e-commerce
- site
+A site where various products are available to consumers.
